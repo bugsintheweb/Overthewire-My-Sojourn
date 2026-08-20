@@ -1,0 +1,7 @@
+lvl0 to lvl1
+
+Not much to say here.
+
+logged in with ssh following the lvl0 instructions.
+
+ready for the next level.

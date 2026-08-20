@@ -1,0 +1,10 @@
+lvl2-lvl3
+
+now this got a bit tricky. being fully aware that special characters can
+do funny things to files I had to actually play around with it by thing I 
+noramlly wouldnt do just to get a file to open.
+
+key lessons involed file paths and creative use of what I would norally use
+to execute files.
+
+fun lesson! next!

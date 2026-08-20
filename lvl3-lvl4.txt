@@ -1,0 +1,11 @@
+lvl3-0lvl4
+
+Getting this file to cat out was quite frustrating. I did finally 
+get it but I had to do a little googling. I have a new found respect
+for why you should use numbers and letters for filenames.
+
+This extended the lesson from the last level with file paths and dealing 
+with special characters in file names.
+
+Next up! 
+

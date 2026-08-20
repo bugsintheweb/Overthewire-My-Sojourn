@@ -1,0 +1,7 @@
+lvl1-lvl2
+
+Not much to say here either.
+
+Followed the instructions using basic linux commands for navications and file reading.
+
+ready for level 2. 
